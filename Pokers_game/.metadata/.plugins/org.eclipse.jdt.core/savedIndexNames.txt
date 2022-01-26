@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Admin\eclipse-workspace\AIProjectPokerGame\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3422325030.index
+521701748.index
